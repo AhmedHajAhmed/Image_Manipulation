@@ -53,4 +53,3 @@ In addition to these utility methods, there is a method used for extracting a 3x
 * `paintRectangle()` draws a rectangle on an image using a provided `width`, `height`, `rowPosition`, `columnPosition`, and `color`.
 
 * `generateRectangles()` uses the `paintRectangles()` method in order to paint a piece of art. It will generate randomly positioned, sized, and colored rectangles based on the provided number. The input parameter, `numRectangles` will determine how many randomly generated rectangles will be placed in the image.
-* 
